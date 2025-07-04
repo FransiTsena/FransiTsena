@@ -1,11 +1,10 @@
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzJwcmw2bmZrNnVxNmhqeW03bDg4ZHU2NzZnMG0yZncyYnNzZHlyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1gLZ32bMP5pY52PBsm/giphy.gif" width="480" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXYxZDU3dDJobTl1dHJtM2ZtdG1kMGdyODdpcTFxd3N1ZzIxNzNhdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif" width="300" />
 </p>
 
-<h1 align="center">Hey there — I’m Fransi Tsena ⚡</h1>
+<h1 align="center">Hey there I’m Fransi Tsena ⚡</h1>
 <h3 align="center">Builder of digital worlds, breaker of comfort zones, DevOps artisan</h3>
 
----
 
 Some people collect stamps. I collect **systems**.  
 Give me a blank repo, and I’ll spin it into a resilient, scalable, CI/CD’d, containerized microverse.
@@ -45,7 +44,7 @@ I’m as comfortable optimizing Docker images as I am tuning cloud cost reports 
 DM me, challenge me, send a meme — I’m open to creative minds.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXYxZDU3dDJobTl1dHJtM2ZtdG1kMGdyODdpcTFxd3N1ZzIxNzNhdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif" width="300" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzJwcmw2bmZrNnVxNmhqeW03bDg4ZHU2NzZnMG0yZncyYnNzZHlyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1gLZ32bMP5pY52PBsm/giphy.gif" width="480" />
 </p>
 
 <p align="center"><i>"Write code like poetry, ship like a machine."</i></p>
