@@ -8,7 +8,7 @@
 Some people collect stamps. I collect **systems**.  
 Give me a blank repo, and I’ll spin it into a resilient, scalable, CI/CD’d, containerized microverse.
 
-I’ve spent years floating between clouds (AWS, GCP), scripting thoughts into code (Python, Go), and shipping products that don’t just work—they *thrive under pressure*. Sometimes I go deep with Dart and Flutter, other times I'm surfing async waves in TypeScript.  
+I’ve spent years floating between clouds, scripting thoughts into code, and shipping products that don’t just work—they *thrive under pressure*. Sometimes I go deep with Dart and Flutter, other times I'm surfing async waves in TypeScript.  
 I don't pick favorites — I pick the right tool and bend it to my will.
 
 I believe that **elegant architecture is invisible**, just like great design.  
