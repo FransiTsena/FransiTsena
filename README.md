@@ -2,14 +2,14 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXYxZDU3dDJobTl1dHJtM2ZtdG1kMGdyODdpcTFxd3N1ZzIxNzNhdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif" width="300" />
 </p>
 
-<h1 align="center">Hey there — I’m Fransi</h1>
+<h1 align="center">Hey there, I’m Fransi</h1>
 <h3 align="center">Builder of digital worlds</h3>
 
 Some people collect stamps. I collect **systems**.  
 Give me a blank repo, and I’ll spin it into a resilient, scalable, CI/CD’d, containerized microverse.
 
 I’ve spent years floating between clouds, scripting thoughts into code, and shipping products that don’t just work—they *thrive under pressure*. Sometimes I go deep with Dart and Flutter, other times I'm surfing async waves in TypeScript.  
-I don't pick favorites — I pick the right tool and bend it to my will.
+I don't pick favorites, I pick the right tool and bend it to my will.
 
 I believe that **elegant architecture is invisible**, just like great design.  
 Also, dark themes. Always.
@@ -20,7 +20,7 @@ Also, dark themes. Always.
 
 > *Knowledge is potential. But implementation? That’s kinetic energy.*  
 > I’ve seen geniuses frozen by theory, and quiet coders changing the game by doing.  
-> I live in that gap — where action meets understanding.
+> I live in that gap, where action meets understanding.
 
 ---
 
@@ -40,7 +40,7 @@ I’m as comfortable optimizing Docker images as I am tuning cloud cost reports 
 ---
 
 📫 **Wanna connect or collab?**  
-DM me, challenge me, send a meme — I’m open to creative minds.
+DM me, challenge me, send a meme  I’m open to creative minds.
 
 <p align="center
   <a href="https://www.linkedin.com/in/fransi-t-185452301">🔗 LinkedIn</a>
