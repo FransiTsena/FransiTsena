@@ -2,52 +2,98 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXYxZDU3dDJobTl1dHJtM2ZtdG1kMGdyODdpcTFxd3N1ZzIxNzNhdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif" width="300" />
 </p>
 
-<h1 align="center">Hey there, I’m Fransi</h1>
-<h3 align="center">Builder of digital worlds</h3>
+<h1 align="center">Hey, I’m Fransi</h1>
 
-Some people collect stamps. I collect **systems**.  
-Give me a blank repo, and I’ll spin it into a resilient, scalable, CI/CD’d, containerized microverse.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=36BCF7&center=true&vCenter=true&width=600&lines=I+build+systems+that+survive+real+traffic;Distributed+Systems+Engineer;Cloud-Native+Architect;Microservices+over+monoliths" alt="Typing SVG" />
+</p>
 
-I’ve spent years floating between clouds, scripting thoughts into code, and shipping products that don’t just work—they *thrive under pressure*. Sometimes I go deep with Dart and Flutter, other times I'm surfing async waves in TypeScript.  
-I don't pick favorites, I pick the right tool and bend it to my will.
-
-I believe that **elegant architecture is invisible**, just like great design.  
-Also, dark themes. Always.
-
----
-
-🧠 **My Code Philosophy**
-
-> *Knowledge is potential. But implementation? That’s kinetic energy.*  
-> I’ve seen geniuses frozen by theory, and quiet coders changing the game by doing.  
-> I live in that gap, where action meets understanding.
+<p align="center">
+  <b>Some people chase frameworks. I chase system behavior.</b><br>
+  Give me a blank repo and I’ll ship a fault-tolerant, event-driven, horizontally scalable system that stays calm when traffic spikes.
+</p>
 
 ---
 
-⚙️ **The Tech I Use Doesn't Define Me, But Here's a Taste:**
+### What I Actually Build
+I design and ship **production systems** — the kind that handle real users, real money, and real chaos.
 
-I’ve containerized code while sipping coffee, provisioned entire infra before my pizza got cold, and built frontends that load faster than your favorite anime intro.  
-I’m as comfortable optimizing Docker images as I am tuning cloud cost reports or wiring WebSocket events in a real-time Flutter app.
+I don’t just write APIs. I design **how services talk**, **how data moves**, and **what breaks first** (then I fix that).
 
----
-
-🎮 **What I'm Currently Into**  
-- Playing with AI agents like they’re my new dev team  
-- Automating infrastructure to the point it feels like witchcraft  
-- Tinkering with edge deployments just because I can  
-- Watching anime with my terminal open (yes, it’s a vibe)
+Monoliths are fine.  
+**Microservices are inevitable** once scale shows up uninvited.
 
 ---
 
-📫 **Wanna connect or collab?**  
-DM me, challenge me, send a meme  I’m open to creative minds.
+### How I Think About Systems
+> *“If it doesn’t scale, it’s a prototype.”*
 
-<p align="center
-  <a href="https://www.linkedin.com/in/fransi-t-185452301">🔗 LinkedIn</a>
+I optimize for:
+- **Failure tolerance** over happy paths  
+- **Async communication** over tight coupling  
+- **Observability** so bugs can’t hide  
+
+Clean code is nice.  
+**Predictable systems under pressure** are better.
+
+---
+
+### Architecture I Gravitate Toward
+- **Microservices** with clear ownership and boundaries  
+- **Event-driven flows** using Kafka instead of synchronous panic  
+- **Redis** for caching, rate-limiting, queues, and fast state  
+- **Stateless services** that scale horizontally without drama  
+
+Services should be replaceable.  
+Deployments should be boring.  
+Incidents should be rare — and explainable.
+
+---
+
+### The Actual Stack
+| Layer | Tools I Trust |
+| :--- | :--- |
+| **Frontend** | Flutter, Dart, React, TypeScript |
+| **Backend** | Node.js, NestJS, REST & event consumers |
+| **Messaging** | Apache Kafka (events > requests) |
+| **Caching & Speed** | Redis (cache, pub/sub, locks, rate limits) |
+| **Databases** | SQL & NoSQL (chosen intentionally, not randomly) |
+| **Infra** | Docker, Kubernetes, AWS, GCP |
+| **DevOps Brain** | CI/CD, IaC, monitoring, logs, metrics |
+
+---
+
+If one service dies, the system shrugs and keeps moving.
+
+That’s the goal.
+
+---
+
+### 🎮 Current Fixations
+- 🤖 **AI agents** acting like junior engineers (with supervision)  
+- 🧵 **Async-first architectures** that don’t block on feelings  
+- 🌍 **Edge deployments** because users hate waiting  
+- 🖥️ **Terminal + anime OSTs** (statistically improves focus)
+
+---
+
+### 📈 Proof I Touch Real Code
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" height="150" />
+</p>
+
+---
+
+### 📫 Let’s Talk Systems
+<p align="center">
+  <a href="https://www.linkedin.com/in/fransi-t-185452301">
+    <img src="https://img.shields.io/badge/LinkedIn-Architecting%20Reality-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/1gLZ32bMP5pY52PBsm/giphy.gif" width="480" />
+  <br>
+  <i>“Design for failure. Ship with confidence. Let metrics tell the truth.”</i>
 </p>
-
-<p align="center"><i>"Write code like poetry, ship like a machine."</i></p>
