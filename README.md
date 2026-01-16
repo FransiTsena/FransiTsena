@@ -16,9 +16,9 @@
 ---
 
 ### What I Actually Build
-I design and ship **production systems** — the kind that handle real users, real money, and real chaos.
+I design and ship **production systems**, the kind that handle real users, real money, and real chaos.
 
-I don’t just write APIs. I design **how services talk**, **how data moves**, and **what breaks first** (then I fix that).
+Not just writing APIs. I design **how services talk**, **how data moves**, and **what breaks first** (then I fix that).
 
 Monoliths are fine.  
 **Microservices are inevitable** once scale shows up uninvited.
@@ -54,8 +54,8 @@ Incidents should be rare — and explainable.
 | Layer | Tools I Trust |
 | :--- | :--- |
 | **Frontend** | Flutter, Dart, React, TypeScript |
-| **Backend** | Node.js, NestJS, REST & event consumers |
-| **Messaging** | Apache Kafka (events > requests) |
+| **Backend** | Go, Node.js, NestJS, REST & Dat |
+| **Messaging** | Kafka, RabbitMQ (events > requests) |
 | **Caching & Speed** | Redis (cache, pub/sub, locks, rate limits) |
 | **Databases** | SQL & NoSQL (chosen intentionally, not randomly) |
 | **Infra** | Docker, Kubernetes, AWS, GCP |
