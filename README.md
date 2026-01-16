@@ -5,7 +5,7 @@
 <h1 align="center">Hey, I’m Fransi</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=36BCF7&center=true&vCenter=true&width=600&lines=Build+systems+that+survive+real+traffic;Distributed+Systems+Engineer;Cloud-Native+Architect;Microservices+monoliths" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+systems+that+survives+real+traffic;Microservices/Monoliths" alt="Typing SVG" />
 </p>
 
 <p align="center">
