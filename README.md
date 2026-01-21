@@ -77,14 +77,6 @@ That’s the goal.
 
 ---
 
-### 📈 Proof I Touch Real Code
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fransitsena&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fransitsena&layout=compact&theme=tokyonight" height="150" />
-</p>
-
----
-
 ### 📫 Let’s Talk Systems
 <p align="center">
   <a href="https://www.linkedin.com/in/fransi-t-185452301">
