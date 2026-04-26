@@ -63,6 +63,8 @@ If one service dies, the system shrugs and keeps moving.
 That’s the goal.
 
 ---
+<img src="https://streak-stats.demolab.com/?user=fransitsena&currStreakNum=2FD3EB&fire=green&sideLabels=F00&date_format=[Y.]n.j&theme=dark" />
+---
 
 ### 🎮 Current Fixations
 - 🤖 **AI agents** acting like junior engineers (with supervision)  
@@ -78,8 +80,6 @@ That’s the goal.
     <img src="https://img.shields.io/badge/FransiTsena?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-<img src="https://streak-stats.demolab.com/?user=fransitsena&currStreakNum=2FD3EB&fire=green&sideLabels=F00&date_format=[Y.]n.j" />
-  
 
 <p align="center">
   <img src="https://media.giphy.com/media/1gLZ32bMP5pY52PBsm/giphy.gif" width="480" />
