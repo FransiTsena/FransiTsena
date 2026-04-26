@@ -8,11 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+systems+that+survives+real+traffic;Microservices/Monoliths" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <b>Some people chase frameworks. I chase system behavior.</b><br>
-  Give me a blank repo and I’ll ship a fault-tolerant, event-driven, horizontally scalable system that stays calm when traffic spikes.
-</p>
-
 ---
 
 ### What I Actually Build
@@ -80,9 +75,10 @@ That’s the goal.
 ### 📫 Let’s Talk Systems
 <p align="center">
   <a href="https://www.linkedin.com/in/fransi-t-185452301">
-    <img src="https://img.shields.io/badge/LinkedIn-Architecting%20Reality-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/Fransi%20Tsena?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=fransitsena&currStreakNum=2FD3EB&fire=green&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
 
 <p align="center">
   <img src="https://media.giphy.com/media/1gLZ32bMP5pY52PBsm/giphy.gif" width="480" />
