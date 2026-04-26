@@ -78,7 +78,8 @@ That’s the goal.
     <img src="https://img.shields.io/badge/Fransi%20Tsena?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=fransitsena&currStreakNum=2FD3EB&fire=green&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com/?user=fransitsena&currStreakNum=2FD3EB&fire=green&sideLabels=F00&date_format=[Y.]n.j" />
+  
 
 <p align="center">
   <img src="https://media.giphy.com/media/1gLZ32bMP5pY52PBsm/giphy.gif" width="480" />
