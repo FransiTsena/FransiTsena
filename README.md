@@ -75,7 +75,7 @@ That’s the goal.
 ### 📫 Let’s Talk Systems
 <p align="center">
   <a href="https://www.linkedin.com/in/fransi-t-185452301">
-    <img src="https://img.shields.io/badge/Fransi%20Tsena?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/FransiTsena?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 <img src="https://streak-stats.demolab.com/?user=fransitsena&currStreakNum=2FD3EB&fire=green&sideLabels=F00&date_format=[Y.]n.j" />
